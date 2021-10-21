@@ -1,2 +1,2 @@
-function = function(a) {a +b = c
+function = function(a,b) {a +b = c
 return(c)}
